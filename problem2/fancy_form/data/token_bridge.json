@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Ethereum", "image": "/assets_switcheo/ETH.svg", "bg": "", "colour": "", "change": false },
+    { "id": 2, "name": "Arbitrum", "image": "/assets_switcheo/ARB.svg", "bg": "#112e44", "colour": "#0597ec", "change": false },
+    { "id": 3, "name": "Polygon", "image": "/assets_switcheo/MATIC.svg", "bg": "#34254b", "colour": "#9758ff", "change": true },
+    { "id": 4, "name": "BNB Chain", "image": "/assets_switcheo/BNB.svg", "bg": "#3f3012", "colour": "#eab104", "change": true },
+    { "id": 5, "name": "Avalanche", "image": "/assets_switcheo/AVAX.svg", "bg": "#3e1b1f", "colour": "#e84245", "change": true },
+    { "id": 6, "name": "Celo", "image": "/assets_switcheo/CELO.svg", "bg": "#413f21", "colour": "#fcfc55", "change": true }
+  ]
